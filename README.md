@@ -1,4 +1,4 @@
-# OpenFinSpace
+# OpenFinSpace [COMING SOON]
 
 **An open-source workspace where investment analysts team up with AI as a co-worker to supercharge financial research and craft investment theses.**
 
